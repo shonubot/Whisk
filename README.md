@@ -1,9 +1,9 @@
-# **Whisk**
-A Simple Search Bar for Gnome and Wayland that launches with `ALT+Space` 
+# **Whisk** 
+
+![ChatGPT Image Jul 9, 2025, 02_06_20 PM (1)](https://github.com/user-attachments/assets/67a6c9b9-cc1e-4596-a398-62cc5db97a98) ![Screenshot 2025-07-09 125801](https://github.com/user-attachments/assets/1a62987c-fb49-45fc-b163-bf9482e43e58)
+
+<br>A Simple Search Bar for Gnome and Wayland that launches with `ALT+Space` 
 >this will overide your `activate-window-menu` shortcut
-
-![Screenshot 2025-07-09 125801](https://github.com/user-attachments/assets/b99c097e-8720-40de-acfe-f7692a9c258b)
-
 
 ### Setup Guide
 
