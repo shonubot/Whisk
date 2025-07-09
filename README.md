@@ -2,6 +2,9 @@
 A Simple Search Bar for Gnome and Wayland that launches with `ALT+Space` 
 >this will overide your `activate-window-menu` shortcut
 
+![Screenshot 2025-07-09 125801](https://github.com/user-attachments/assets/b99c097e-8720-40de-acfe-f7692a9c258b)
+
+
 ### Setup Guide
 
 #### 1. Clone this repository
