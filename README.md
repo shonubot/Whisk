@@ -3,6 +3,7 @@
 
 <br>A Simple Search Bar for Gnome and Wayland that launches with `ALT+Space` 
 >this will overide your `activate-window-menu` shortcut
+<br>
 >Whisk installs in the directory in which install.sh was placed it stores application data in that directory 
 
 
