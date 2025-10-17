@@ -2,9 +2,10 @@
 <img width="474" height="264" alt="Screenshot 2025-07-09 125801" src="https://github.com/user-attachments/assets/1c983b6a-f22a-4881-a3c3-7111301c4efd" />
 
 <br>A Simple Search Bar for Gnome and Wayland that launches with `ALT+Space` 
+> [!NOTE]
 >this will overide your `activate-window-menu` shortcut
-<br>
-Whisk installs in the directory in which install.sh was placed.
+>
+>Whisk installs in the directory in which install.sh was placed.
 
 
 ### Setup Guide
